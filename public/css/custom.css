@@ -11,6 +11,10 @@ and open the template in the editor.
 .side-menu:hover + .navbar + div .container-fluid {
     margin-left: 140px;
 }
+.app-footer {
+    text-align: center;
+}​
+
 
 .login_navbar{
 	padding-left: 0px !important;

@@ -1,4 +1,3 @@
-/* 1 */
 {
     "_id" : ObjectId("57e4d5448548c519bc0324ab"),
     "email" : "sgupta@charterglobal.com",
@@ -7,8 +6,6 @@
     "__v" : 0,
     "profileRef" : ObjectId("57e4d5448548c519bc0324ac")
 }
-
-/* 2 */
 {
     "_id" : ObjectId("57e53473e4da70181cf869c1"),
     "email" : "superuser@charterglobal.com",
